@@ -1,0 +1,1 @@
+Scripts and notebooks I used to collect and process some of the data, do the analysis, and produce the plots for [two](https://towardsdatascience.com/sitcoms-natural-language-comparison-e36f8dae2c7e) [posts](https://towardsdatascience.com/scoring-sitcoms-on-the-bechdel-test-41659d90d045) on applying NLP to sitcom transcripts.
